@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Viagens</string>
+    <string name="destino">Destino</string>
+    <string name="diario">Diario</string>
+    <string name="nota">Nota</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="fechar">Fechar</string>
+    <string name="novo">Novo Destino</string>
+    <string name="apagar">Apagar</string>
+    <string name="editar">Editar</string>
+</resources>
